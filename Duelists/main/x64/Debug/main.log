@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\dkamf\source\repos\Duelists\main.cpp(48,145): error C2248: 'Character::Armor': cannot access protected member declared in class 'Character'
+      C:\Users\dkamf\source\repos\Duelists\Character.h(22,9):
+      see declaration of 'Character::Armor'
+      C:\Users\dkamf\source\repos\Duelists\Character.h(5,7):
+      see declaration of 'Character'
+  
+C:\Users\dkamf\source\repos\Duelists\main.cpp(49,140): error C2248: 'Character::Armor': cannot access protected member declared in class 'Character'
+      C:\Users\dkamf\source\repos\Duelists\Character.h(22,9):
+      see declaration of 'Character::Armor'
+      C:\Users\dkamf\source\repos\Duelists\Character.h(5,7):
+      see declaration of 'Character'
+  
